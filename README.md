@@ -1,2 +1,6 @@
 # Legal_Chatbot
-This project aims to build a legal chatbot that evolves from basic NLP techniques like TF-IDF and Word2Vec to more advanced approaches using Large Language Models (LLMs), enabling progressively smarter legal question answering.
+This project aims to build a Legal AI Assistant that allows users to interact with a chatbot and receive precise, legally grounded answers. The assistant will draw from laws, constitutions, regulations, and legal documents, starting from static retrieval to more advanced understanding and generation.
+
+The assistant evolves from simple keyword-based retrieval to context-aware generative reasoning over legal text.
+
+In the final stages, it will support document uploads, question answering, and even flagging constitutional violations or contractual inconsistencies.
